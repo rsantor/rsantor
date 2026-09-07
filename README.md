@@ -14,6 +14,6 @@ Highly skilled Senior Backend / Full-Stack Developer with 15 years of IT excelle
 
 ## Objective
 
-My extensive background in Software Engineering has been leading me to explore ways to further develop my passion to learn more. Cybersecurity has been a concept that peaked my interest since it's a part of a developer's daily life to build a secure product from start to finish. Eager to pivot into this field, I specifically aim to become an Application Security (AppSec) Engineer.
+My extensive background in Software Engineering has led me to explore ways to further develop my passion for learning. Cybersecurity has always piqued my interest, as it is an integral part of a developer’s daily work—from building secure products to ensuring security throughout the development lifecycle. Eager to pivot into this field, I specifically aim to become an Application Security (AppSec) Engineer.
 
-By starting this repository to document the progress along my journey—from taking courses to completing certifications, I hope that it will help guide future colleagues or potential employers to showcase my skills and achievements.
+By starting this repository to document my progress along this journey—from taking courses to completing certifications—I hope it will help guide future colleagues and potential employers in understanding and showcasing my skills and achievements.
